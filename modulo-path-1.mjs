@@ -1,3 +1,4 @@
+// nos sirve para unir 
 import { join } from "path";
 
 const directorio = "/ruta/principal";
